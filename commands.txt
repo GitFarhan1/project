@@ -1,0 +1,26 @@
+git : Global Information Tracker
+github : Git is used to store the source code for a project and track the complete history of all changes to that code
+Difference between git and github : Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories
+How to set username and email address in git? : git config --global user.name "name"        git config --global user.email "mail" 
+git add : The git add command adds a change in the working directory to the staging area
+git log : The git log command is used to display the commits.
+git show : used to view expanded details on Git objects such as blobs, trees, tags, and commits
+git log --oneline : used to view expanded details on Git objects such as blobs, trees, tags, and commits
+cat : used to display the content of a file, copy content from one file to another.
+git commit - m "msg" : It is a command used to commit a appropriate message
+git status : The git status command displays the state of the working directory and the staging area.
+git checkout : The git checkout command is used to switch between branches in a repository.
+git init : git init command is used to initialize an empty git repository.
+git clone : Used to copy the remote repository to a local machine.
+git merge : Used to combine the history of one branch to another branch.
+git fecth : Used to access the details of the remote repository
+git remote : The git remote command lets you create, view, and delete connections to other repositories.
+git push : Used to send the files from local machine to remote repository.
+git pull : The git pull command is used to fetch and download content from a remote repository
+git merge : Used to combine the history of one branch into another branch.
+git rebase : Taking one branch and adding it to the tip of the main branch.
+git stash : git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on.
+git stash list : List all the stach files.
+git show stach @ {0} : shows the elements in the stash file.
+
+
